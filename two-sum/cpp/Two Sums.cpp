@@ -52,4 +52,6 @@ int main()
     std::cout << "When nums = [3,3] and target = 6, the solver found the following solution [ ";
     print(solver.twoSum(nums,target));
     std::cout << "]" << endl << endl;
+
+    std::cout << "dan is perfectly normal!";
 }
