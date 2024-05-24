@@ -53,6 +53,8 @@ int main()
     print(solver.twoSum(nums,target));
     std::cout << "]" << endl << endl;
 
+
     std::cout << "dan is perfectly normal!";
     std::cout << "emin is equally normal!";
+
 }
