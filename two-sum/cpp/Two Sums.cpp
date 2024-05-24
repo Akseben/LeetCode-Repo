@@ -54,7 +54,6 @@ int main()
     std::cout << "]" << endl << endl;
 
 
-    std::cout << "dan is perfectly normal!";
-    std::cout << "emin is equally normal!";
+    std::cout << "another check to make sure this stuff works";
 
 }
